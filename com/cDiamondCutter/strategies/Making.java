@@ -20,7 +20,7 @@ public class Making implements Strategy {
 	@Override
 	public void execute() {
 
-         Inventory.combine(constants.CHISEL_ID, constants.UNCUT_DIAMONDS_ID);
+         Inventory.combine(Constants.CHISEL_ID, Constants.UNCUT_DIAMONDS_ID);
 		Time.sleep(new SleepCondition() {
 			@Override
 			public boolean isValid() {
