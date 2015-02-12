@@ -7,5 +7,6 @@ public class Constants {
 	public static int UNCUT_DIAMONDS_ID = 1618;
 	public static int DIAMONDS_ID = 1602;
 	public static int CHISEL_ID = 1756;
+	public static int DO_25 = 0;
 
 }

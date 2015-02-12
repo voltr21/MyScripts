@@ -12,20 +12,27 @@ public class Making implements Strategy {
 
 	@Override
 	public boolean activate() {
-		return Inventory.getCount(Constants.UNCUT_DIAMONDS_ID) == 25;
+		return Inventory.getCount(Constants.UNCUT_DIAMONDS_ID) >= 1;
 	}
 
 	@Override
 	public void execute() {
-		Inventory.combine(Constants.CHISEL_ID, Constants.UNCUT_DIAMONDS_ID);
-		Menu.sendAction(315, 5029888, 272, 2498, 1);
-		Time.sleep(24000);
-		Inventory.combine(Constants.CHISEL_ID, Constants.DIAMONDS_ID);
-		Menu.sendAction(315, Constants.DIAMONDS_ID - 1, 8, 2472, 1);
-		Menu.sendAction(315, Constants.DIAMONDS_ID - 1, 20, 2498, 1);
+		do {
+			Inventory.combine(Constants.CHISEL_ID, Constants.UNCUT_DIAMONDS_ID);
+			Time.sleep(500);
+			Constants.DO_25 ++;
+		} while (Constants.DO_25 < 26);
+		Constants.DO_25 = 0;
+		do {
+			Inventory.combine(Constants.CHISEL_ID, Constants.DIAMONDS_ID);
+			Menu.sendAction(315, Constants.DIAMONDS_ID - 1, 8, 2472, 1);
+			Time.sleep(500);
+			Constants.DO_25 ++;
+		} while (Constants.DO_25 < 26);
 		Time.sleep(new SleepCondition() {
 			@Override
 			public boolean isValid() {
+				Constants.DO_25 = 0;
 				return Players.getMyPlayer().getAnimation() == -1;
 			}
 		}, 500);
