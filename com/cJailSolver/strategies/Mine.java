@@ -14,7 +14,7 @@ public class Mine implements Strategy {
 
 	@Override
 	public boolean activate() {
-		return true;
+		return Inventory.getCount(Constants.ORES_ID) <= 27;
 	}
 
 	@Override
@@ -31,7 +31,7 @@ public class Mine implements Strategy {
 		Time.sleep(new SleepCondition() {
 			@Override
 			public boolean isValid() {
-				return Players.getMyPlayer().getAnimation() != -1;
+				return Inventory.getCount(Constants.ORES_ID) == 28;
 			}
 		}, 500);
 	}

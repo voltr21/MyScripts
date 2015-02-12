@@ -7,7 +7,7 @@ import org.parabot.environment.scripts.Script;
 import org.parabot.environment.scripts.ScriptManifest;
 import org.parabot.environment.scripts.framework.Strategy;
 
-//import com.cJailSolver.strategies.Give;
+import com.cJailSolver.strategies.Give;
 import com.cJailSolver.strategies.Mine;
 
 @ScriptManifest(author = "Capslock", 
@@ -21,7 +21,7 @@ public class Core extends Script {
 	
 	public boolean onExecute() {
 		strategies.add(new Mine());
-		//strategies.add(new Give());
+		strategies.add(new Give());
 		provide(strategies);
 		return true;
 	}
