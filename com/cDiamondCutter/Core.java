@@ -7,8 +7,8 @@ import org.parabot.environment.scripts.Script;
 import org.parabot.environment.scripts.ScriptManifest;
 import org.parabot.environment.scripts.framework.Strategy;
 
-import com.cDiamondCutter.data.Making;
 import com.cDiamondCutter.strategies.Buying;
+import com.cDiamondCutter.strategies.Making;
 
 @ScriptManifest(author = "Capslock", 
 	category = Category.CRAFTING, 

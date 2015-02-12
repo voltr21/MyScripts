@@ -1,4 +1,4 @@
-package com.cGuildedBench.strategies;
+package com.cGildedBench.strategies;
 
 import org.parabot.environment.api.utils.Time;
 import org.parabot.environment.scripts.framework.SleepCondition;
@@ -10,7 +10,7 @@ import org.rev317.min.api.methods.Npcs;
 import org.rev317.min.api.methods.Players;
 import org.rev317.min.api.wrappers.Npc;
 
-import com.cGuildedBench.data.Constants;
+import com.cGildedBench.data.Constants;
 
 public class Banking implements Strategy {
 

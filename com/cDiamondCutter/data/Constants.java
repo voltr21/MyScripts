@@ -1,4 +1,4 @@
-package com.cDiamondCutter.strategies;
+package com.cDiamondCutter.data;
 
 public class Constants {
 	

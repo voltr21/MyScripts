@@ -9,6 +9,7 @@ import org.rev317.min.api.methods.Menu;
 import org.rev317.min.api.methods.Npcs;
 import org.rev317.min.api.methods.Players;
 import org.rev317.min.api.wrappers.Npc;
+import com.cDiamondCutter.data.Constants;
 
 public class Buying implements Strategy {
 

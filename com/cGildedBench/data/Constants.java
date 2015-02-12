@@ -1,4 +1,4 @@
-package com.cGuildedBench.data;
+package com.cGildedBench.data;
 
 public class Constants {
 	

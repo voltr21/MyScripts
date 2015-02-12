@@ -1,4 +1,4 @@
-package com.cDiamondCutter.data;
+package com.cDiamondCutter.strategies;
 
 import org.parabot.environment.api.utils.Time;
 import org.parabot.environment.scripts.framework.SleepCondition;
@@ -8,7 +8,7 @@ import org.rev317.min.api.methods.Menu;
 import org.rev317.min.api.methods.Players;
 import org.rev317.min.api.wrappers.Item;
 
-import com.cDiamondCutter.strategies.Constants;
+import com.cDiamondCutter.data.Constants;
 
 public class Making implements Strategy {
 
