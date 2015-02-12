@@ -15,7 +15,7 @@ import com.cDiamondCutter.strategies.Making;
 	description = "Cuts diamonds until it's tips", 
 	name = "cDiamondCutter", 
 	servers = { "PKHonor" }, 
-	version = 1.0)
+	version = 1.1)
 public class Core extends Script {
 	private static ArrayList<Strategy> strategies = new ArrayList<Strategy>();
 	
