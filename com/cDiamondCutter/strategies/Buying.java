@@ -24,6 +24,7 @@ public class Buying implements Strategy {
 		if (Game.getOpenInterfaceId() == Constants.INTERFACE_ID) { // BUYS THE DIAMONDS
 			Menu.sendAction(53, 1617, 6, 3900, 3);
 			Menu.sendAction(200, 1735, 22, 3902, 1);
+			Time.sleep(500);
 			Time.sleep(new SleepCondition() {
 				@Override
 				public boolean isValid() {
