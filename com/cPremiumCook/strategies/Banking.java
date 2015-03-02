@@ -16,7 +16,7 @@ public class Banking implements Strategy {
 
 	@Override
 	public boolean activate() {
-		return Inventory.getCount(Constants.RAW_FISH) == 0;
+		return Inventory.getCount(Constants.rawFish) == 0;
 	}
 
 	@Override
