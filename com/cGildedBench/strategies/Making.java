@@ -26,7 +26,7 @@ public class Making implements Strategy {
 			Time.sleep(new SleepCondition() {
 					@Override
 					public boolean isValid() {
-						return Inventory.getCount(Constants.MAHOGANY_PLANKS) == 12 && Inventory.getCount(Constants.GOLD_LEAFS) == 12;
+						return Players.getMyPlayer().getAnimation() != -1;
 					}
 				}, 500);
 			SceneObject[] DONE_BENCH = SceneObjects.getNearest(Constants.DONE_BENCH);
