@@ -15,7 +15,6 @@ public class Buying implements Strategy {
 
 	@Override
 	public boolean activate() {
-		// TODO Auto-generated method stub
 		return Inventory.getCount(Constants.DIAMONDS_ID) == 0;
 	}
 
@@ -32,18 +31,17 @@ public class Buying implements Strategy {
 				}
 			}, 500);
 		} else { // OPENS THE SHOP
-			Npc[] CRAFTING_SHOP = Npcs.getNearest(Constants.CRAFTING_SHOP);
-			if (CRAFTING_SHOP.length > 0 && CRAFTING_SHOP != null
-					&& CRAFTING_SHOP[0].distanceTo() > 0
+			Npc[] craftingShop = Npcs.getNearest(Constants.CRAFTING_SHOP);
+			if (craftingShop.length > 0 && craftingShop != null
+					&& craftingShop[0].distanceTo() > 0
 					&& Players.getMyPlayer().getAnimation() == -1) {
-				CRAFTING_SHOP[0].interact(0);
-				Time.sleep(1000);
+				craftingShop[0].interact(0);
 				Time.sleep(new SleepCondition() {
 					@Override
 					public boolean isValid() {
 						return Game.getOpenInterfaceId() == Constants.INTERFACE_ID;
 					}
-				}, 500);
+				}, 1000);
 			}
 		}
 	}
