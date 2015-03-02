@@ -60,31 +60,31 @@ public class Gui extends JFrame {
 	private void StartButtonActionPerformed(java.awt.event.ActionEvent e) {
 		switch (comboBox.getSelectedIndex()) {
 		case 0:
-			Constants.LOGS_ID = 1512;
-			Constants.TREE_ID = 1276;
+			Constants.logsId = 1512;
+			Constants.treeId = 1276;
 			break;
 		case 1:
-			Constants.LOGS_ID = 1522;
-			Constants.TREE_ID = 1281;
-			Constants.SEED_ID = 5313;
+			Constants.logsId = 1522;
+			Constants.treeId = 1281;
+			Constants.seedId = 5313;
 			break;
 		case 2:
-			Constants.LOGS_ID = 14616;
-			Constants.TREE_ID = 1520;
-			Constants.SEED_ID = 5314;
+			Constants.logsId = 14616;
+			Constants.treeId = 1520;
+			Constants.seedId = 5314;
 			break;
 		case 3:
-			Constants.LOGS_ID = 1518;
-			Constants.TREE_ID = 1307;
-			Constants.SEED_ID = 5315;
+			Constants.logsId = 1518;
+			Constants.treeId = 1307;
+			Constants.seedId = 5315;
 			break;
 		case 4:
-			Constants.LOGS_ID = 1516;
-			Constants.TREE_ID = 1309;
-			Constants.SEED_ID = 5316;
+			Constants.logsId = 1516;
+			Constants.treeId = 1309;
+			Constants.seedId = 5316;
 			break;
 		case 5:
-			Constants.LOGS_ID = 1514;
+			Constants.logsId = 1514;
 			Constants.TREE_ID = 1306;
 			Constants.SEED_ID = 5317;
 			break;
