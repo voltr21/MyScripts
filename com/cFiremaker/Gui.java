@@ -85,8 +85,8 @@ public class Gui extends JFrame {
 			break;
 		case 5:
 			Constants.logsId = 1514;
-			Constants.TREE_ID = 1306;
-			Constants.SEED_ID = 5317;
+			Constants.treeId = 1306;
+			Constants.seedId = 5317;
 			break;
 		default:
 			break;
