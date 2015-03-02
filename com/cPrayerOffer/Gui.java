@@ -58,13 +58,13 @@ public class Gui extends JFrame {
 	private void StartButtonActionPerformed(java.awt.event.ActionEvent e) {
 		switch (comboBox.getSelectedIndex()) {
 		case 0:
-			Constants.BONES_ID = 533;
+			Constants.bonesId = 533;
 			break;
 		case 1:
-			Constants.BONES_ID = 537;
+			Constants.bonesId = 537;
 			break;
 		case 2:
-			Constants.BONES_ID = 16571;
+			Constants.bonesId = 16571;
 			break;
 		default:
 			break;
