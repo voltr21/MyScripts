@@ -16,17 +16,17 @@ public class Offer implements Strategy {
 
 	@Override
 	public boolean activate() {
-		return Inventory.getCount(Constants.BONES_ID) == 28;
+		return Inventory.getCount(Constants.bonesId) == 28;
 	}
 
 	@Override
 	public void execute() {
 		SceneObject[] altarId = SceneObjects.getNearest(Constants.ALTAR_ID);
-		Item bonesId = Inventory.getItem(Constants.BONES_ID);
+		Item bonesId = Inventory.getItem(Constants.bonesId);
 		if (altarId.length > 0 && altarId != null
 				&& altarId[0].distanceTo() > 0
 				&& Players.getMyPlayer().getAnimation() == -1) {
-			Menu.sendAction(447, Constants.BONES_ID - 1, bonesId.getSlot(), 3214, 3);
+			Menu.sendAction(447, Constants.bonesId - 1, bonesId.getSlot(), 3214, 3);
 			Menu.sendAction(62, altarId[0].getHash(), altarId[0].getLocalRegionX(), altarId[0].getLocalRegionY(), 1);
 			Menu.sendAction(315, 6701056, 284, 2498, 1);
 			Time.sleep(new SleepCondition() {
