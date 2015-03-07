@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84f8516e-68e8-4a41-b3bd-5a597d5eb12c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cGildedBench/strategies/Banking.java" afterPath="$PROJECT_DIR$/cGildedBench/strategies/Banking.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cPrayerOffer/strategies/Banking.java" afterPath="$PROJECT_DIR$/cPrayerOffer/strategies/Banking.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cPremiumCook/strategies/Banking.java" afterPath="$PROJECT_DIR$/cPremiumCook/strategies/Banking.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cDiamondCutter/strategies/Buying.java" afterPath="$PROJECT_DIR$/cDiamondCutter/strategies/Buying.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cFiremaker/strategies/Chop.java" afterPath="$PROJECT_DIR$/cFiremaker/strategies/Chop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cDiamondCutter/data/Constants.java" afterPath="$PROJECT_DIR$/cDiamondCutter/data/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cFiremaker/data/Constants.java" afterPath="$PROJECT_DIR$/cFiremaker/data/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cGildedBench/data/Constants.java" afterPath="$PROJECT_DIR$/cGildedBench/data/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cJailSolver/data/Constants.java" afterPath="$PROJECT_DIR$/cJailSolver/data/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cPrayerOffer/data/Constants.java" afterPath="$PROJECT_DIR$/cPrayerOffer/data/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cPremiumCook/data/Constants.java" afterPath="$PROJECT_DIR$/cPremiumCook/data/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cPremiumCook/strategies/Cooking.java" afterPath="$PROJECT_DIR$/cPremiumCook/strategies/Cooking.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cFiremaker/strategies/Fire.java" afterPath="$PROJECT_DIR$/cFiremaker/strategies/Fire.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cJailSolver/strategies/Give.java" afterPath="$PROJECT_DIR$/cJailSolver/strategies/Give.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cFiremaker/Gui.java" afterPath="$PROJECT_DIR$/cFiremaker/Gui.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cPrayerOffer/Gui.java" afterPath="$PROJECT_DIR$/cPrayerOffer/Gui.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cPremiumCook/Gui.java" afterPath="$PROJECT_DIR$/cPremiumCook/Gui.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cGildedBench/strategies/Making.java" afterPath="$PROJECT_DIR$/cGildedBench/strategies/Making.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cJailSolver/strategies/Mine.java" afterPath="$PROJECT_DIR$/cJailSolver/strategies/Mine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cPrayerOffer/strategies/Offer.java" afterPath="$PROJECT_DIR$/cPrayerOffer/strategies/Offer.java" />
+    </list>
+    <ignored path="com.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="com" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cGildedBench/strategies/Banking.java" />
+        <option value="$PROJECT_DIR$/cGildedBench/Core.java" />
+        <option value="$PROJECT_DIR$/cFiremaker/strategies/Fire.java" />
+        <option value="$PROJECT_DIR$/cJailSolver/data/Constants.java" />
+        <option value="$PROJECT_DIR$/cJailSolver/strategies/Give.java" />
+        <option value="$PROJECT_DIR$/cJailSolver/Core.java" />
+        <option value="$PROJECT_DIR$/cPlankMaker/strategies/Making.java" />
+        <option value="$PROJECT_DIR$/cPlankMaker/Core.java" />
+        <option value="$PROJECT_DIR$/cPlankMaker/strategies/Banking.java" />
+        <option value="$PROJECT_DIR$/cPlankMaker/data/Constants.java" />
+        <option value="$PROJECT_DIR$/cPrayerOffer/data/Constants.java" />
+        <option value="$PROJECT_DIR$/cPrayerOffer/strategies/Offer.java" />
+        <option value="$PROJECT_DIR$/cPrayerOffer/Gui.java" />
+        <option value="$PROJECT_DIR$/cPrayerOffer/Core.java" />
+        <option value="$PROJECT_DIR$/cPrayerOffer/strategies/Banking.java" />
+        <option value="$PROJECT_DIR$/cPremiumCook/data/Constants.java" />
+        <option value="$PROJECT_DIR$/cPremiumCook/strategies/Banking.java" />
+        <option value="$PROJECT_DIR$/cPremiumCook/strategies/Cooking.java" />
+        <option value="$PROJECT_DIR$/cPremiumCook/Gui.java" />
+        <option value="$PROJECT_DIR$/cPremiumCook/Main.java" />
+        <option value="$PROJECT_DIR$/cRuneMaker/data/Constants.java" />
+        <option value="$PROJECT_DIR$/cRuneMaker/strategies/Making.java" />
+        <option value="$PROJECT_DIR$/cRuneMaker/Core.java" />
+        <option value="$PROJECT_DIR$/cRuneMaker/strategies/Banking.java" />
+        <option value="$PROJECT_DIR$/cTabMaker/data/Constants.java" />
+        <option value="$PROJECT_DIR$/cTabMaker/strategies/Banking.java" />
+        <option value="$PROJECT_DIR$/cTabMaker/strategies/Making.java" />
+        <option value="$PROJECT_DIR$/cTabMaker/Core.java" />
+        <option value="$PROJECT_DIR$/IkovChopper/data/Constants.java" />
+        <option value="$PROJECT_DIR$/IkovChopper/Core.java" />
+        <option value="$PROJECT_DIR$/IkovChopper/Gui.java" />
+        <option value="$PROJECT_DIR$/IkovChopper/strategies/Woodcut.java" />
+        <option value="$PROJECT_DIR$/IkovFlax/strategies/BankingFlax.java" />
+        <option value="$PROJECT_DIR$/IkovFlax/strategies/PickingFlax.java" />
+        <option value="$PROJECT_DIR$/IkovFlax/strategies/ToFlax.java" />
+        <option value="$PROJECT_DIR$/IkovFlax/LordFlax.java" />
+        <option value="$PROJECT_DIR$/OakPlank/data/Constants.java" />
+        <option value="$PROJECT_DIR$/OakPlank/strategies/Plank.java" />
+        <option value="$PROJECT_DIR$/OakPlank/Core.java" />
+        <option value="$PROJECT_DIR$/OakPlank/strategies/Bank.java" />
+        <option value="$PROJECT_DIR$/cJailSolver/strategies/Mine.java" />
+        <option value="$PROJECT_DIR$/cThiever/data/Constants.java" />
+        <option value="$PROJECT_DIR$/cMasterFarmer/strategies/Steak.java" />
+        <option value="$PROJECT_DIR$/cMasterFarmer/Core.java" />
+        <option value="$PROJECT_DIR$/cMasterFarmer/strategies/Steal.java" />
+        <option value="$PROJECT_DIR$/cThiever/strategies/Sell.java" />
+        <option value="$PROJECT_DIR$/cThiever/strategies/Random.java" />
+        <option value="$PROJECT_DIR$/cThiever/strategies/Steal.java" />
+        <option value="$PROJECT_DIR$/cThiever/Gui.java" />
+        <option value="$PROJECT_DIR$/cThiever/Core.java" />
+        <option value="$PROJECT_DIR$/.idea/.name" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="967" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cThiever" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cThiever" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="strategies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cThiever" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RunManager" selected="JAR Application.Parabot -login">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$USER_HOME$/Parabot/Parabot.jar" />
+      <option name="PROGRAM_PARAMETERS" value="-loadlocal -login capslock ais123456" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Parabot" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$USER_HOME$/Parabot/Parabot.jar" />
+      <option name="PROGRAM_PARAMETERS" value="-loadlocal -login capslock ais123456" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Parabot -login" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$USER_HOME$/Parabot/Parabot.jar" />
+      <option name="PROGRAM_PARAMETERS" value="-loadlocal -login capslock ais123456" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <envs />
+      <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="JarDebug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="JarDebug" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JAR Application.Parabot" />
+      <item index="1" class="java.lang.String" itemvalue="JAR Application.Parabot -login" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f8516e-68e8-4a41-b3bd-5a597d5eb12c" name="Default" comment="" />
+      <created>1425201722946</created>
+      <option name="number" value="Default" />
+      <updated>1425201722946</updated>
+      <workItem from="1425201724348" duration="713000" />
+      <workItem from="1425225799642" duration="2000" />
+      <workItem from="1425225805715" duration="145000" />
+      <workItem from="1425303967923" duration="300000" />
+      <workItem from="1425656117116" duration="8590000" />
+      <workItem from="1425720155255" duration="759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10509000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="967" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32839224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cFiremaker/strategies/Fire.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cGildedBench/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cFiremaker/strategies/Fire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15679443" vertical-offset="0" max-vertical-offset="574">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cJailSolver/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cJailSolver/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPlankMaker/strategies/Making.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPlankMaker/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPlankMaker/strategies/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="645">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPlankMaker/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPrayerOffer/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPrayerOffer/strategies/Offer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="660">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPrayerOffer/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4703833" vertical-offset="0" max-vertical-offset="1230">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPrayerOffer/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2595819" vertical-offset="1" max-vertical-offset="630">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPrayerOffer/strategies/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="615">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPremiumCook/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPremiumCook/strategies/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="630">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cRuneMaker/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cRuneMaker/strategies/Making.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30836236" vertical-offset="3" max-vertical-offset="660">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cRuneMaker/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cRuneMaker/strategies/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3379791" vertical-offset="1" max-vertical-offset="720">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cTabMaker/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cTabMaker/strategies/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33623692" vertical-offset="2" max-vertical-offset="690">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cTabMaker/strategies/Making.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28745645" vertical-offset="0" max-vertical-offset="645">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IkovChopper/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IkovChopper/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IkovChopper/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5487805" vertical-offset="0" max-vertical-offset="574">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IkovChopper/strategies/Woodcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IkovFlax/strategies/BankingFlax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IkovFlax/strategies/PickingFlax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IkovFlax/strategies/ToFlax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IkovFlax/LordFlax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33972126" vertical-offset="0" max-vertical-offset="630">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OakPlank/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OakPlank/strategies/Plank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OakPlank/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OakPlank/strategies/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="645">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Parabot/Parabot-317-API-Minified.jar!/org/rev317/min/Loader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28089887" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cTabMaker/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="18" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cJailSolver/strategies/Give.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64400715" vertical-offset="0" max-vertical-offset="559">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cJailSolver/strategies/Mine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80500895" vertical-offset="0" max-vertical-offset="675">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPremiumCook/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44007155" vertical-offset="99" max-vertical-offset="1275">
+          <caret line="23" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPremiumCook/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46332738" vertical-offset="71" max-vertical-offset="630">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cPremiumCook/strategies/Cooking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57423973" vertical-offset="24" max-vertical-offset="600">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cThiever/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32200357" vertical-offset="0" max-vertical-offset="559">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cMasterFarmer/strategies/Steal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13416816" vertical-offset="0" max-vertical-offset="559">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cMasterFarmer/data/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18783543" vertical-offset="0" max-vertical-offset="559">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cMasterFarmer/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53667265" vertical-offset="0" max-vertical-offset="559">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cThiever/strategies/Sell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8586762" vertical-offset="0" max-vertical-offset="855">
+          <caret line="34" column="25" selection-start-line="28" selection-start-column="27" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#866#1127#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1225#1428#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
+            <element signature="e#1526#1731#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cThiever/strategies/Steal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="585">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cThiever/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="518" max-vertical-offset="1365">
+          <caret line="74" column="39" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1943463" vertical-offset="0" max-vertical-offset="849">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cThiever/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82887703" vertical-offset="0" max-vertical-offset="615">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Parabot-317-API-Minified</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
