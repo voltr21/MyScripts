@@ -17,19 +17,18 @@ public class Cooking implements Strategy {
 
 	@Override
 	public boolean activate() {
-		return Inventory.getCount(Constants.RAW_FISH) == 28;
+		return Inventory.getCount(Constants.rawFish) == 28;
 	}
 
 	@Override
 	public void execute() {
-		SceneObject[] FIRE_ID = SceneObjects.getNearest(Constants.FIRE_ID);
-		Item FISH = Inventory.getItem(Constants.RAW_FISH);
-		if (FIRE_ID.length > 0 && FIRE_ID != null
-				&& FIRE_ID[0].distanceTo() > 0
+		SceneObject[] fireId = SceneObjects.getNearest(Constants.FIRE_ID);
+		Item fishId = Inventory.getItem(Constants.rawFish);
+		if (fireId.length > 0 && fireId != null
+				&& fireId[0].distanceTo() > 0
 				&& Players.getMyPlayer().getAnimation() == -1) {
-			Menu.sendAction(447, Constants.RAW_FISH - 1, FISH.getSlot(), 3214, 3);
-			Menu.sendAction(62, FIRE_ID[0].getHash(), FIRE_ID[0].getLocalRegionX(), FIRE_ID[0].getLocalRegionY(), 1);
-			Time.sleep(2000);
+			Menu.sendAction(447, Constants.fishId - 1, fishId.getSlot(), 3214, 3);
+			Menu.sendAction(62, fireId[0].getHash(), fireId[0].getLocalRegionX(), fireId[0].getLocalRegionY(), 1);
 			Time.sleep(new SleepCondition() {
 				@Override
 				public boolean isValid() {

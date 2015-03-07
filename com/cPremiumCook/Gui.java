@@ -60,13 +60,13 @@ public class Gui extends JFrame {
 	private void StartButtonActionPerformed(java.awt.event.ActionEvent e) {
 		switch (comboBox.getSelectedIndex()) {
 		case 0:
-			Constants.RAW_FISH = 384;
+			Constants.rawFish = 384;
 			break;
 		case 1:
-			Constants.RAW_FISH = 390;
+			Constants.rawFish = 390;
 			break;
 		case 2:
-			Constants.RAW_FISH = 14616;
+			Constants.rawFish = 14616;
 			break;
 		default:
 			break;

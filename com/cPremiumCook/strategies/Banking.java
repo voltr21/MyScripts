@@ -16,7 +16,7 @@ public class Banking implements Strategy {
 
 	@Override
 	public boolean activate() {
-		return Inventory.getCount(Constants.RAW_FISH) == 0;
+		return Inventory.getCount(Constants.rawFish) == 0;
 	}
 
 	@Override
@@ -28,15 +28,15 @@ public class Banking implements Strategy {
 			Time.sleep(new SleepCondition() {
 				@Override
 				public boolean isValid() {
-					return Game.getOpenInterfaceId() == Constants.INTERFACE_ID;
+					return Game.getOpenInterfaceId() != Constants.INTERFACE_ID;
 				}
 			}, 500);
 		} else {
-			SceneObject[] BANK_BOOTH = SceneObjects.getNearest(Constants.BANK_ID);
-			if (BANK_BOOTH.length > 0 && BANK_BOOTH != null
-					&& BANK_BOOTH[0].distanceTo() > 0
+			SceneObject[] bankId = SceneObjects.getNearest(Constants.BANK_ID);
+			if (bankId.length > 0 && bankId != null
+					&& bankId[0].distanceTo() > 0
 					&& Players.getMyPlayer().getAnimation() == -1) {
-				BANK_BOOTH[0].interact(0);
+				bankId[0].interact(0);
 				Time.sleep(new SleepCondition() {
 					@Override
 					public boolean isValid() {

@@ -16,21 +16,19 @@ public class Offer implements Strategy {
 
 	@Override
 	public boolean activate() {
-		// TODO Auto-generated method stub
-		return Inventory.getCount(Constants.BONES_ID) == 28;
+		return Inventory.getCount(Constants.bonesId) == 28;
 	}
 
 	@Override
 	public void execute() {
-		SceneObject[] ALTAR_ID = SceneObjects.getNearest(Constants.ALTAR_ID);
-		Item BONES_ID = Inventory.getItem(Constants.BONES_ID);
-		if (ALTAR_ID.length > 0 && ALTAR_ID != null
-				&& ALTAR_ID[0].distanceTo() > 0
+		SceneObject[] altarId = SceneObjects.getNearest(Constants.ALTAR_ID);
+		Item bonesId = Inventory.getItem(Constants.bonesId);
+		if (altarId.length > 0 && altarId != null
+				&& altarId[0].distanceTo() > 0
 				&& Players.getMyPlayer().getAnimation() == -1) {
-			Menu.sendAction(447, Constants.BONES_ID - 1, BONES_ID.getSlot(), 3214, 3);
-			Menu.sendAction(62, ALTAR_ID[0].getHash(), ALTAR_ID[0].getLocalRegionX(), ALTAR_ID[0].getLocalRegionY(), 1);
+			Menu.sendAction(447, Constants.bonesId - 1, bonesId.getSlot(), 3214, 3);
+			Menu.sendAction(62, altarId[0].getHash(), altarId[0].getLocalRegionX(), altarId[0].getLocalRegionY(), 1);
 			Menu.sendAction(315, 6701056, 284, 2498, 1);
-			Time.sleep(2000);
 			Time.sleep(new SleepCondition() {
 				@Override
 				public boolean isValid() {

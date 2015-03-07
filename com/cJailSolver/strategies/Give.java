@@ -19,18 +19,17 @@ public class Give implements Strategy {
 
 	@Override
 	public void execute() {
-		Npc[] JAILER_ID = Npcs.getNearest(Constants.JAILER_ID);
-		if (JAILER_ID.length > 0 && JAILER_ID != null
-				&& JAILER_ID[0].distanceTo() > 0
+		Npc[] jailerId = Npcs.getNearest(Constants.JAILER_ID);
+		if (jailerId.length > 0 && jailerId != null
+				&& jailerId[0].distanceTo() > 0
 				&& Players.getMyPlayer().getAnimation() == -1) {
-			JAILER_ID[0].interact(0);
-			Time.sleep(500);
+			jailerId[0].interact(0);
+			Time.sleep(new SleepCondition() {
+				@Override
+				public boolean isValid() {
+					return Inventory.getCount(Constants.ORES_ID) == 0;
+				}
+			}, 500);
 		}
-		Time.sleep(new SleepCondition() {
-			@Override
-			public boolean isValid() {
-				return Inventory.getCount(Constants.ORES_ID) == 0;
-			}
-		}, 500);
 	}
 }

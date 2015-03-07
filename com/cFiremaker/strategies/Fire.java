@@ -10,13 +10,13 @@ public class Fire implements Strategy {
 
 	@Override
 	public boolean activate() {
-		return Inventory.getCount(Constants.LOGS_ID) == 27;
+		return Inventory.getCount(Constants.logsId) == 27;
 	}
 
 	@Override
 	public void execute() {
 		do {
-			Inventory.combine(Constants.LOGS_ID, Constants.TINDERBOX_ID);
+			Inventory.combine(Constants.logsId, Constants.TINDERBOX_ID);
 			Time.sleep(500);
 			Constants.DO_27 ++;
 		} while (Constants.DO_27 < 27);
@@ -24,7 +24,7 @@ public class Fire implements Strategy {
 			@Override
 			public boolean isValid() {
 				Constants.DO_27 = 0;
-				return Inventory.getCount(Constants.LOGS_ID) == 0;
+				return Inventory.getCount(Constants.logsId) == 0;
 			}
 		}, 500);
 	}

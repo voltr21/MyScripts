@@ -21,20 +21,19 @@ public class Chop implements Strategy {
 
 	@Override
 	public void execute() {
-		SceneObject[] TREE_ID = SceneObjects.getNearest(Constants.TREE_ID);
-		if (TREE_ID.length > 0 && TREE_ID != null
-				&& TREE_ID[0].distanceTo() > 0
+		SceneObject[] treeId = SceneObjects.getNearest(Constants.treeId);
+		if (treeId.length > 0 && treeId != null
+				&& treeId[0].distanceTo() > 0
 				&& Players.getMyPlayer().getAnimation() == -1) {
-			TREE_ID[0].interact(TREE_ID[0].getHash());
+			treeId[0].interact(treeId[0].getHash());
 		}
-		if (Inventory.getCount(Constants.SEED_ID) >= 1) {
-			Item SEED_ID = Inventory.getItem(Constants.SEED_ID);
-			Menu.sendAction(847, Constants.SEED_ID - 1, SEED_ID.getSlot(), 3214, 2);
-			Time.sleep(500);
+		if (Inventory.getCount(Constants.seedId) >= 1) {
+			Item seedId = Inventory.getItem(Constants.seedId);
+			Menu.sendAction(847, Constants.seedId - 1, seedId.getSlot(), 3214, 2);
 			Time.sleep(new SleepCondition() {
 				@Override
 				public boolean isValid() {
-					return Inventory.getCount(Constants.SEED_ID) == 0;
+					return Inventory.getCount(Constants.seedId) == 0;
 				}
 			}, 500);
 		}

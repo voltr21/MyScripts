@@ -32,11 +32,11 @@ public class Banking implements Strategy {
 				}
 			}, 500);
 		} else {
-			Npc[] BUTLER_ID = Npcs.getNearest(Constants.BANK_ID);
-			if (BUTLER_ID.length > 0 && BUTLER_ID != null
-					&& BUTLER_ID[0].distanceTo() > 0
+			Npc[] butlerId = Npcs.getNearest(Constants.BANK_ID);
+			if (butlerId.length > 0 && butlerId != null
+					&& butlerId[0].distanceTo() > 0
 					&& Players.getMyPlayer().getAnimation() == -1) {
-				BUTLER_ID[0].interact(2);
+				butlerId[0].interact(2);
 				Time.sleep(new SleepCondition() {
 					@Override
 					public boolean isValid() {
