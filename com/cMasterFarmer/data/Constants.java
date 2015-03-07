@@ -6,4 +6,5 @@ package cMasterFarmer.data;
  * With IntelliJ
  */
 public class Constants {
+    public static final int MASTER_FARMER = 3257;
 }
